@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HiWorld!</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1 id="doo">HTML - язык веб-сайтов</h1>
+    <h2>Начнём обучение!</h2>
+     <a href="https://www.pinterest.ru/pin/768426755172674775/">
+       <em>почему бы не посмотреть на котика?</em></a>
+     <br>
+     <a href="https://www.pinterest.ru/pin/768426755172674770/" target="_blank">
+       <b>а на воробушка?</b></a>
+     <p><a href="#doo">
+       <span style="color: #808000;">а, может, в начало?</span></a></p>
+
+     <hr>
+     <img src="https://i.pinimg.com/originals/51/e0/92/51e0928a3be609019cc305aac5f8e7e6.jpg" width="200">
+     <p>оставите отзыв?</p>
+
+     <input type="text">
+     <p>нет, честно, сколько лайков?</p>
+
+     <input type="number">
+  </body>
+</html>
